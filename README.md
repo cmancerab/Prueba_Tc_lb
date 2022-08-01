@@ -1,5 +1,5 @@
-# Prueba_Tc_lb## 
-Tabla de contenido
+# Prueba_Tc_lb
+## Tabla de contenido
 [Información General](#Información-General)
 [Tecnologias](#Tecnologias)
 [Instalación](#Instalación)
